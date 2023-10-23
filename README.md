@@ -1,6 +1,6 @@
 # MLGeo-23_linjon 
 
-##Welcome
+## Welcome
 Jonathan Lindenmann's MLGeo2023 repository. 
 
 This repo will be the foundation for the computational side of my future science projects, possibly exploring such things as: 
@@ -12,7 +12,7 @@ This repo will be the foundation for the computational side of my future science
 - lots more
 
 
-##Getting started
+## Getting started
 This repository is stored in the [UW-ESS-DS GitHub](https://github.com/UW-ESS-DS) organization and contains a copy of `environment.yml` from the class repository [UW-ESS-DS/MLGeo-2023](https://github.com/UW-ESS-DS/MLGeo-2023)
 
 To access and work on any of my projects, you can fork and clone my repository by following the instructions in the 'HowToContribute.pdf' document. To summarize here, you'll be making a fork of this repo, then putting it all on your own computer using GitHub Desktop or entering the following commands in the command line interface:
@@ -26,22 +26,26 @@ To access and work on any of my projects, you can fork and clone my repository b
     `git add filename`
 Lastly, check that all the files you want to include in the commit are staged:
     `git diff --staged`
-5. Make a commit, giving it a clear description:
+5. Make a commit, giving it a clear description, and then check on it with `git log`:
     `git commit -m "Message"`
-6. This commit is now stored locally in your cloned repository. You still need to push it to the remote one on GitHub:
-    `git push ""`
+    `git log -3 --oneline`
+7. This commit is now stored locally in your cloned repository. You still need to push it to the remote one on GitHub with `git push`.
 
-as 
+
+
+## License
+
+
+
+
+
+
+===========================================================================================================================================
+===========================================================================================================================================
+===========================================================================================================================================
+===========================================================================================================================================
 
 ## Installation/Deployment
-
-## Basic Usage: step-by-step instructions to use the software
-
-This section covers coding commands and techniques from MLGeo2023 classes. 
-
-For the command line interface (CLI):
-
-mkdir xxx - makes a new directory 'xxx'.
 
 ## Contributing: detail the type of contributions welcome
 
