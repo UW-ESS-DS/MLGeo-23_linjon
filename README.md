@@ -31,7 +31,7 @@ Lastly, check that all the files you want to include in the commit are staged:
 6. This commit is now stored locally in your cloned repository. You still need to push it to the remote one on GitHub:
     `git push ""`
 
-
+as 
 
 ## Installation/Deployment
 
