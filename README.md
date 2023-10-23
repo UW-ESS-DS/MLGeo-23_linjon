@@ -1,5 +1,20 @@
-# MLGeo-23_linjon
-First repository for MLGeo2023
+# MLGeo-23_linjon 
+
+##Welcome
+Jonathan Lindenmann's MLGeo2023 repository. This repository is stored in the [UW-ESS-DS GitHub](https://github.com/UW-ESS-DS/MLGeo-2023) organization.
+
+This repo will be the foundation for the computational side of my future science projects, possibly exploring such things as: 
+
+- Types of nephrite microstructures
+- Formation mechanisms for different nephrites
+- Impact assessments for un(der)regulated mining projects
+- ML-assisted mineral exploration
+- lots more
+
+
+##Getting started
+To access and work on any of my projects, clone this repository:
+
 
 
 ## Installation/Deployment
