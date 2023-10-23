@@ -39,15 +39,10 @@ The MIT license lets you use the contents of this repository freely; there is no
 
 
 
-===========================================================================================================================================
-===========================================================================================================================================
-===========================================================================================================================================
-===========================================================================================================================================
+#### Installation/Deployment
 
-## Installation/Deployment
+#### Contributing: detail the type of contributions welcome
 
-## Contributing: detail the type of contributions welcome
+#### Contact information / getting help: guidelines on how to get in touch
 
-## Contact information / getting help: guidelines on how to get in touch
-
-## Credits/Acknowledgement: Specific the academic publication to cite (e.g., add a bibtex text in a code box like this):
+#### Credits/Acknowledgement: Specific the academic publication to cite (e.g., add a bibtex text in a code box like this):
