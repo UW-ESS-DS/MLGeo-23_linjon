@@ -35,8 +35,7 @@ Lastly, check that all the files you want to include in the commit are staged:
 
 ## License
 
-
-
+The MIT license lets you use the contents of this repository freely; there is nothing proprietary here (yet!)
 
 
 
