@@ -31,6 +31,7 @@ Lastly, check that all the files you want to include in the commit are staged:
     `git log -3 --oneline`
 7. This commit is now stored locally in your cloned repository. You still need to push it to the remote one on GitHub with `git push`.
 
+<<<<<<< HEAD
 
 
 ## License
@@ -43,6 +44,24 @@ The MIT license lets you use the contents of this repository freely; there is no
 
 #### Contributing: detail the type of contributions welcome
 
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> refs/remotes/origin/main
+
+
+## License
+
+The MIT license lets you use the contents of this repository freely; there is nothing proprietary here (yet!)
+
+
+
+#### Installation/Deployment
+
+#### Contributing: detail the type of contributions welcome
+
+>>>>>>> 61a3e8c (Add lecture notes folder and start lecture notes as markdown files.)
 #### Contact information / getting help: guidelines on how to get in touch
 
 #### Credits/Acknowledgement: Specific the academic publication to cite (e.g., add a bibtex text in a code box like this):
